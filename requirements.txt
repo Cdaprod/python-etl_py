@@ -1,0 +1,6 @@
+fastapi
+minio
+asyncio
+ast
+io
+tokenize
